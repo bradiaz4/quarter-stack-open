@@ -1,0 +1,17 @@
+#errors found
+html was in caps with no lang
+there was only one <meta>
+the tittle was not having a closing tag    
+h2 tag did not have a closing tag
+the strong tag was not having a closing tag and the em tag was not having an opening tag    
+h3 tag did not have a closing tag
+the closing li tag for Reaing and Gaming were not found
+h2 tag was given a h3 closing tag
+the closing li tag for Book One and Book Five were missing and Book Three was given an ol tags
+The closing p tag was missing 
+The closing p tag was missing
+The closing html tag was missing
+
+i trace them by going throungh line by line.
+
+
