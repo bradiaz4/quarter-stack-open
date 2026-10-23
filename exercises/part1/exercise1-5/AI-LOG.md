@@ -10,4 +10,5 @@ i also made some changes on my background.
 I also made changes on the orderly list that shpaed my path.
 
 I also made changes on unorderly skills am currently practicing.
+I also change My Name.
 
