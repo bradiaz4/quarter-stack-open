@@ -2,3 +2,5 @@ I promt the ai with "write a HTML5 code, were it will have 1 h1 element having t
 
 i cange the district education office to school administrative office.
 there was a mispled word found in h3 "set" which is changed to short.
+
+I added the strong tag and emphasis
